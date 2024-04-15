@@ -1,0 +1,21 @@
+.footer {
+    text-align: center;
+    color: white;
+    background-color: rgb(5, 5, 65);
+    padding: 20px 0;
+    border-radius: 5px 5px 0 0;
+    margin-top: 350px;
+  }
+  
+  .fd {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .footerb {
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+  }

@@ -1,0 +1,630 @@
+[{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c358"
+  },
+  "Role": "Student",
+  "Name": "Priya",
+  "Email": "priya@example.com",
+  "Password": "AbcD&123&11",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427001"
+  },
+  "Data_Structure_and_Algorithm": 61,
+  "Machine_Learning": 67,
+  "Linux": 59,
+  "Concentration_InClass": 75,
+  "Clearing_Doubts": 57,
+  "Answering_Question": 60,
+  "Average": 63.166666666666664,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c359"
+  },
+  "Role": "Student",
+  "Name": "Rahul",
+  "Email": "rahul@example.com",
+  "Password": "AbcD&123&12",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427002"
+  },
+  "Data_Structure_and_Algorithm": 39,
+  "Machine_Learning": 21,
+  "Linux": 59,
+  "Concentration_InClass": 50,
+  "Clearing_Doubts": 64,
+  "Answering_Question": 40,
+  "Average": 45.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c35b"
+  },
+  "Role": "Student",
+  "Name": "Aasma",
+  "Email": "aasma@example.com",
+  "Password": "AbcD&123&14",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427004"
+  },
+  "Data_Structure_and_Algorithm": 51,
+  "Machine_Learning": 35,
+  "Linux": 34,
+  "Concentration_InClass": 34,
+  "Clearing_Doubts": 75,
+  "Answering_Question": 30,
+  "Average": 43.166666666666664,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c35a"
+  },
+  "Role": "Student",
+  "Name": "Anam",
+  "Email": "anam@example.com",
+  "Password": "AbcD&123&13",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427003"
+  },
+  "Data_Structure_and_Algorithm": 75,
+  "Machine_Learning": 49,
+  "Linux": 60,
+  "Concentration_InClass": 65,
+  "Clearing_Doubts": 75,
+  "Answering_Question": 70,
+  "Average": 65.66666666666667,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c35c"
+  },
+  "Role": "Student",
+  "Name": "Badr",
+  "Email": "badr@example.com",
+  "Password": "AbcD&123&15",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427005"
+  },
+  "Data_Structure_and_Algorithm": 78,
+  "Machine_Learning": 56,
+  "Linux": 67,
+  "Concentration_InClass": 86,
+  "Clearing_Doubts": 97,
+  "Answering_Question": 65,
+  "Average": 74.83333333333333,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c35f"
+  },
+  "Role": "Student",
+  "Name": "Yashmita",
+  "Email": "yashmita@example.com",
+  "Password": "AbcD&123&18",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427008"
+  },
+  "Data_Structure_and_Algorithm": 55,
+  "Machine_Learning": 27,
+  "Linux": 45,
+  "Concentration_InClass": 45,
+  "Clearing_Doubts": 85,
+  "Answering_Question": 43,
+  "Average": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c360"
+  },
+  "Role": "Student",
+  "Name": "Vajra",
+  "Email": "vajra@example.com",
+  "Password": "AbcD&123&19",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427009"
+  },
+  "Data_Structure_and_Algorithm": 12,
+  "Machine_Learning": 34,
+  "Linux": 2,
+  "Concentration_InClass": 31,
+  "Clearing_Doubts": 26,
+  "Answering_Question": 8,
+  "Average": 18.833333333333332,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c361"
+  },
+  "Role": "Student",
+  "Name": "Zena",
+  "Email": "zena@example.com",
+  "Password": "AbcD&123&20",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427010"
+  },
+  "Data_Structure_and_Algorithm": 57,
+  "Machine_Learning": 29,
+  "Linux": 14,
+  "Concentration_InClass": 34,
+  "Clearing_Doubts": 34,
+  "Answering_Question": 23,
+  "Average": 31.833333333333332,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c35d"
+  },
+  "Role": "Student",
+  "Name": "Breshna",
+  "Email": "breshna@example.com",
+  "Password": "AbcD&123&16",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427006"
+  },
+  "Data_Structure_and_Algorithm": 53,
+  "Machine_Learning": 25,
+  "Linux": 45,
+  "Concentration_InClass": 57,
+  "Clearing_Doubts": 53,
+  "Answering_Question": 45,
+  "Average": 46.333333333333336,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c363"
+  },
+  "Role": "Student",
+  "Name": "Adeeba",
+  "Email": "adeeba@example.com",
+  "Password": "AbcD&123&22",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427012"
+  },
+  "Data_Structure_and_Algorithm": 12,
+  "Machine_Learning": 31,
+  "Linux": 42,
+  "Concentration_InClass": 68,
+  "Clearing_Doubts": 53,
+  "Answering_Question": 48,
+  "Average": 42.333333333333336,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c364"
+  },
+  "Role": "Student",
+  "Name": "Daneen",
+  "Email": "daneen@example.com",
+  "Password": "AbcD&123&23",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427013"
+  },
+  "Data_Structure_and_Algorithm": 89,
+  "Machine_Learning": 61,
+  "Linux": 70,
+  "Concentration_InClass": 97,
+  "Clearing_Doubts": 64,
+  "Answering_Question": 66,
+  "Average": 74.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c365"
+  },
+  "Role": "Student",
+  "Name": "Ravi",
+  "Email": "ravi@example.com",
+  "Password": "AbcD&123&24",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427014"
+  },
+  "Data_Structure_and_Algorithm": 61,
+  "Machine_Learning": 33,
+  "Linux": 3,
+  "Concentration_InClass": 69,
+  "Clearing_Doubts": 23,
+  "Answering_Question": 49,
+  "Average": 39.666666666666664,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c366"
+  },
+  "Role": "Student",
+  "Name": "Sunita",
+  "Email": "sunita@example.com",
+  "Password": "AbcD&123&25",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427015"
+  },
+  "Data_Structure_and_Algorithm": 62,
+  "Machine_Learning": 98,
+  "Linux": 72,
+  "Concentration_InClass": 36,
+  "Clearing_Doubts": 98,
+  "Answering_Question": 61,
+  "Average": 71.16666666666667,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c367"
+  },
+  "Role": "Student",
+  "Name": "Farhan",
+  "Email": "farhan@example.com",
+  "Password": "AbcD&123&26",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427016"
+  },
+  "Data_Structure_and_Algorithm": 32,
+  "Machine_Learning": 35,
+  "Linux": 29,
+  "Concentration_InClass": 68,
+  "Clearing_Doubts": 67,
+  "Answering_Question": 41,
+  "Average": 45.333333333333336,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c368"
+  },
+  "Role": "Student",
+  "Name": "Hina",
+  "Email": "hina@example.com",
+  "Password": "AbcD&123&27",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427017"
+  },
+  "Data_Structure_and_Algorithm": 64,
+  "Machine_Learning": 65,
+  "Linux": 69,
+  "Concentration_InClass": 79,
+  "Clearing_Doubts": 76,
+  "Answering_Question": 71,
+  "Average": 70.66666666666667,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c369"
+  },
+  "Role": "Student",
+  "Name": "Omar",
+  "Email": "omar@example.com",
+  "Password": "AbcD&123&28",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427018"
+  },
+  "Data_Structure_and_Algorithm": 37,
+  "Machine_Learning": 45,
+  "Linux": 33,
+  "Concentration_InClass": 57,
+  "Clearing_Doubts": 56,
+  "Answering_Question": 12,
+  "Average": 40,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c36a"
+  },
+  "Role": "Student",
+  "Name": "Nida",
+  "Email": "nida@example.com",
+  "Password": "AbcD&123&29",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427019"
+  },
+  "Data_Structure_and_Algorithm": 84,
+  "Machine_Learning": 81,
+  "Linux": 85,
+  "Concentration_InClass": 78,
+  "Clearing_Doubts": 84,
+  "Answering_Question": 53,
+  "Average": 77.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c36b"
+  },
+  "Role": "Student",
+  "Name": "Arjun",
+  "Email": "arjun@example.com",
+  "Password": "AbcD&123&30",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427020"
+  },
+  "Data_Structure_and_Algorithm": 30,
+  "Machine_Learning": 39,
+  "Linux": 32,
+  "Concentration_InClass": 45,
+  "Clearing_Doubts": 28,
+  "Answering_Question": 36,
+  "Average": 35,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c36c"
+  },
+  "Role": "Student",
+  "Name": "Kavya",
+  "Email": "kavya@example.com",
+  "Password": "AbcD&123&31",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427021"
+  },
+  "Data_Structure_and_Algorithm": 68,
+  "Machine_Learning": 40,
+  "Linux": 78,
+  "Concentration_InClass": 67,
+  "Clearing_Doubts": 93,
+  "Answering_Question": 78,
+  "Average": 70.66666666666667,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c36d"
+  },
+  "Role": "Student",
+  "Name": "Rishi",
+  "Email": "rishi@example.com",
+  "Password": "AbcD&123&32",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427022"
+  },
+  "Data_Structure_and_Algorithm": 34,
+  "Machine_Learning": 41,
+  "Linux": 26,
+  "Concentration_InClass": 78,
+  "Clearing_Doubts": 83,
+  "Answering_Question": 33,
+  "Average": 49.166666666666664,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c36e"
+  },
+  "Role": "Student",
+  "Name": "Zara",
+  "Email": "zara@example.com",
+  "Password": "AbcD&123&33",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427023"
+  },
+  "Data_Structure_and_Algorithm": 56,
+  "Machine_Learning": 78,
+  "Linux": 80,
+  "Concentration_InClass": 67,
+  "Clearing_Doubts": 56,
+  "Answering_Question": 87,
+  "Average": 70.66666666666667,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c36f"
+  },
+  "Role": "Student",
+  "Name": "Faisal",
+  "Email": "faisal@example.com",
+  "Password": "AbcD&123&34",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427024"
+  },
+  "Data_Structure_and_Algorithm": 45,
+  "Machine_Learning": 45,
+  "Linux": 34,
+  "Concentration_InClass": 56,
+  "Clearing_Doubts": 54,
+  "Answering_Question": 29,
+  "Average": 43.833333333333336,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c370"
+  },
+  "Role": "Student",
+  "Name": "Nisha",
+  "Email": "nisha@example.com",
+  "Password": "AbcD&123&35",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427025"
+  },
+  "Data_Structure_and_Algorithm": 78,
+  "Machine_Learning": 78,
+  "Linux": 82,
+  "Concentration_InClass": 78,
+  "Clearing_Doubts": 58,
+  "Answering_Question": 90,
+  "Average": 77.33333333333333,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c371"
+  },
+  "Role": "Student",
+  "Name": "Karan",
+  "Email": "karan@example.com",
+  "Password": "AbcD&123&36",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427026"
+  },
+  "Data_Structure_and_Algorithm": 20,
+  "Machine_Learning": 34,
+  "Linux": 47,
+  "Concentration_InClass": 45,
+  "Clearing_Doubts": 62,
+  "Answering_Question": 38,
+  "Average": 41,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c372"
+  },
+  "Role": "Student",
+  "Name": "Aryan",
+  "Email": "aryan@example.com",
+  "Password": "AbcD&123&37",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427027"
+  },
+  "Data_Structure_and_Algorithm": 74,
+  "Machine_Learning": 98,
+  "Linux": 84,
+  "Concentration_InClass": 23,
+  "Clearing_Doubts": 98,
+  "Answering_Question": 99,
+  "Average": 79.33333333333333,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c375"
+  },
+  "Role": "Student",
+  "Name": "Pooja",
+  "Email": "pooja@example.com",
+  "Password": "AbcD&123&40",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427030"
+  },
+  "Data_Structure_and_Algorithm": 27,
+  "Machine_Learning": 49,
+  "Linux": 35,
+  "Concentration_InClass": 67,
+  "Clearing_Doubts": 80,
+  "Answering_Question": 42,
+  "Average": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c35e"
+  },
+  "Role": "Student",
+  "Name": "Vallari",
+  "Email": "vallari@example.com",
+  "Password": "AbcD&123&17",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427007"
+  },
+  "Data_Structure_and_Algorithm": 54,
+  "Machine_Learning": 87,
+  "Linux": 69,
+  "Concentration_InClass": 86,
+  "Clearing_Doubts": 45,
+  "Answering_Question": 55,
+  "Average": 66,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c374"
+  },
+  "Role": "Student",
+  "Name": "Sahil",
+  "Email": "sahil@example.com",
+  "Password": "AbcD&123&39",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427029"
+  },
+  "Data_Structure_and_Algorithm": 76,
+  "Machine_Learning": 81,
+  "Linux": 98,
+  "Concentration_InClass": 35,
+  "Clearing_Doubts": 79,
+  "Answering_Question": 84,
+  "Average": 75.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c362"
+  },
+  "Role": "Student",
+  "Name": "Alfiya",
+  "Email": "alfiya@example.com",
+  "Password": "AbcD&123&21",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427011"
+  },
+  "Data_Structure_and_Algorithm": 58,
+  "Machine_Learning": 76,
+  "Linux": 98,
+  "Concentration_InClass": 89,
+  "Clearing_Doubts": 76,
+  "Answering_Question": 68,
+  "Average": 77.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2f575bb9c5c5e0790c373"
+  },
+  "Role": "Student",
+  "Name": "Fatima",
+  "Email": "fatima@example.com",
+  "Password": "AbcD&123&38",
+  "Year": 3,
+  "Roll_Number": {
+    "$numberLong": "37923427028"
+  },
+  "Data_Structure_and_Algorithm": 13,
+  "Machine_Learning": 39,
+  "Linux": 23,
+  "Concentration_InClass": 13,
+  "Clearing_Doubts": 59,
+  "Answering_Question": 10,
+  "Average": 26.166666666666668,
+  "__v": 0
+}]

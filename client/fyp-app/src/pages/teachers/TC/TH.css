@@ -1,0 +1,9 @@
+.account-icon {
+    transition: transform 0.3s, color 0.3s; 
+    cursor: pointer;
+}
+
+.account-icon:hover {
+    transform: scale(1.1); 
+    color: wheat; 
+}
